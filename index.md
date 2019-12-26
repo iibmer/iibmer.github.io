@@ -15,7 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 #### Header 4
-`this is a test line`
+```
+this is a test line
+```
 
 - Bulleted
 - List
